@@ -1,5 +1,6 @@
 body {
-  background-color: tan;
+  background-color: rgb(235, 230, 202);
+  text-align: center;
 }
 
 h1 {
@@ -8,6 +9,12 @@ h1 {
 
 h3 {
   text-align: center;
+  background-color: rgb(225, 196, 154);
+  display: block;
+  padding: 10px;
+  border-radius: 250px;
+  border-style: solid;
+  border-width: 4px;
 }
 
 h4 {
@@ -20,6 +27,8 @@ img {
   width: 250px;
   margin: auto;
   border-radius: 250px;
+  border-style: solid;
+  border-width: 4px;
 }
 
 ul {
@@ -41,5 +50,20 @@ ol {
 }
 p {
   text-align: center;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: rgb(217, 141, 136);
+  display: inline-block;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 250px;
+  border-color: black;
+  color: black;
+  width: 200px;
+  text-align: center;
+  margin: 5px;
 }
 
