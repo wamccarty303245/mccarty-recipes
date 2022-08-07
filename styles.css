@@ -23,9 +23,9 @@ img {
 }
 
 ul {
-  list-style: square;
+  list-style: none;
   text-align: center;
-  width: 200px;
+  width: 250px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 0px;
